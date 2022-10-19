@@ -1,1 +1,3 @@
+#Store raw data into hdfs location
+hadoop fs -put /home/cloudera/data/sales_order_data.csv /assignment
 
